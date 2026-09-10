@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-renitkuk-black?style=for-the-badge&logo=github">
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <(https://www.linkedin.com/in/renit-kukreti-86a395317/)>
   </a>
 </p>
 
