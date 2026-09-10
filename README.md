@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**renitkuk/renitkuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Renit Kukreti
 
-Here are some ideas to get you started:
+### 📡 Electronics & Communication Engineering Student | Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/renitkuk">
+    <img src="https://img.shields.io/badge/GitHub-renitkuk-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```text
+Name       : Renit Kukreti
+Education  : Electronics & Communication Engineering
+Focus      : Software Development & Web Development
+Interests  : Backend Development | Databases | DSA
