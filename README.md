@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Renit Kukreti
 
-### 📡 Electronics & Communication Engineering Student | Software Developer
+### 📡 ECE Undergraduate | Software Developer
 
 <p>
   <a href="https://github.com/renitkuk">
