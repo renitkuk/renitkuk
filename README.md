@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Renit Kukreti
 
-### 📡 ECE Undergraduate | Software Developer
+### 📡 ECE Undergrad | Software Developer
 
 <p>
   <a href="https://github.com/renitkuk">
