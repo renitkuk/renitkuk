@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Renit%20Kukreti&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Renit Kukreti
