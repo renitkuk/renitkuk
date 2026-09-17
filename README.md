@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# 👋 Hi, I'm Renit Kuketi
+# 👋 Hi, I'm Renit Kukreti
 
 ### 📡 ECE Undergrad | Software Developer
 
